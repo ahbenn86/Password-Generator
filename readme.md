@@ -14,3 +14,4 @@
 * CSS
 * Javascript
 
+<a href="https://ahbenn86.github.io/Password-Generator/">Click here to generate your password<a/>
